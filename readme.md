@@ -133,3 +133,7 @@ All evaluation metrics and visualizations are generated and saved in the `output
 - **Model:** Logistic Regression
 - **Evaluation Metrics:** Accuracy, confusion matrix, ROC-AUC, precision-recall, feature importance
 - **Visual Insights:** Plots help understand model performance, feature effects, and data distribution
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify and distribute with attribution.
